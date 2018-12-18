@@ -1,3 +1,7 @@
 # ignore all shell scripts in repo
 *.sh
+
+# ignore empty images folder and contents
 empty_images
+empty_images/1.PNG
+empty_images/2.PNG
